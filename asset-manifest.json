@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KesterReact/static/css/main.8aa6808e.css",
+    "main.js": "/KesterReact/static/js/main.27bd4514.js",
+    "static/js/787.79e22fb9.chunk.js": "/KesterReact/static/js/787.79e22fb9.chunk.js",
+    "static/media/slider2.jpeg": "/KesterReact/static/media/slider2.04fff4b6f26a46547a5c.jpeg",
+    "static/media/slider1.jpeg": "/KesterReact/static/media/slider1.885dc1b4e5417ce706a7.jpeg",
+    "static/media/logo1.jpeg": "/KesterReact/static/media/logo1.a5340f351d15fc7e11b0.jpeg",
+    "static/media/slider3.jpg": "/KesterReact/static/media/slider3.3e0970a1722dab86cc5f.jpg",
+    "static/media/logo.svg": "/KesterReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KesterReact/index.html",
+    "main.8aa6808e.css.map": "/KesterReact/static/css/main.8aa6808e.css.map",
+    "main.27bd4514.js.map": "/KesterReact/static/js/main.27bd4514.js.map",
+    "787.79e22fb9.chunk.js.map": "/KesterReact/static/js/787.79e22fb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aa6808e.css",
+    "static/js/main.27bd4514.js"
+  ]
+}
